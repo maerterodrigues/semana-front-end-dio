@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="assets/css/styles.css"/>
     <title>Mundo Invertido - Semana Front-End</title>
 </head>
-<body>
-    <header>
-        <!--Música que poderá tocar ao acessar página -->
-        <audio id="music">
+<body class="dark-theme" aria-label="O site está utilizando o tema claro" role="body">
+    <header aria-label="Cabeçalho da página">
+        <!--Music that can be used when opening the page -->
+        <audio id="music" autoplay>
             <source src="assets/musics/normal-world.mpeg"> 
         </audio>
 
@@ -25,10 +26,11 @@
             <button id="switch-theme-button" onclick="switchTheme()">Inverter Mundos</button>
         </div>
 
-        <div id="top-characters" class="world-characters"></div>
+        <div id="top-characters" class="world-characters"></div><!--Div dedicated to the positioning of image of the show-->
     </header>
 
-    <main>
+    <main aria-label="Seção principal da página">
+        <div id="bottom-characters" class="world-characters"></div><!--Div dedicated for the positon of the upside version of the image of the show-->
         
         <section id="section-inverted-world" class="container">
             <div class="section-texts">
@@ -40,7 +42,7 @@
                     tudo isso ao nosso mundo.
                 </p>
             </div>
-            
+            <!--Variation of the image, but in the upside down world-->
             <img
                 class="invert-element"
                 src="assets/images/content/inverted-world.png"
@@ -49,7 +51,7 @@
         </section>
             
         <section id="section-stranger-things-trailer" class="container">
-            <div class="video-frame">
+            <div class="video-frame" aria-hidden="true">
                 <iframe
                   width="460"
                   height="215"
@@ -62,7 +64,7 @@
             </div>
             <div class="section-texts">
                 <h2>Stranger Things Vol. 4</h2>
-                <p>
+                <p role="text">
                   Mais experientes, os heróis de Stranger Things também precisam
                   enfrentar desafios maiores do que nunca e fazer decisões que vão
                   mudar suas vidas para sempre. Confira ao lado o trailer da quarta
@@ -74,7 +76,7 @@
         <section id="section-stranger-things-gallery">
             <div class="container section-text">
                 <h2>A segunda série mais assistida da Netflix</h2>
-                <ul class="gallery-container">
+                <ul class="gallery-container" role="gallery">
                     <li class="gallery-image invert-element">
                         <img src="assets/images/content/serie-image-01.png" alt="Imagem de Vecna" />
                      </li>
@@ -130,5 +132,27 @@
         </p>
         <img src="assets/images/footer/logo.svg" alt="Logo Dio">
     </footer>
+
+    <script type="module" src="assets/js/main.js"></script>
+    <script>
+        window.addEventListener('click', function() {
+            const audio = document.getElementById('music');
+            audio.play();
+            audio.volume = 0.2;
+        })
+
+        function switchTheme() {
+            document.body.classList.toggle('dark-theme');
+            document.body.classList.toggle('light-theme');
+
+            const theme = document.body.classList[0];
+            const music = theme === 'light-theme' ? 'normal-world.mpeg' : 'inverted-world.mpeg'
+
+            const audio = document.getElementById('music');
+            audio.src = `assets/musics/${music}`;
+            audio.play();
+            audio.volume = 0.2;
+        }
+    </script>
 </body>
 </html>
