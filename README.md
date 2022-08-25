@@ -1,7 +1,8 @@
 <p align="center">
 <picture>
-  <source width="20%" media="(prefers-color-scheme: dark)" srcset="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
+  <source alt="Logo DIO Branco"width="14%" media="(prefers-color-scheme: dark)" srcset="https://hermes.digitalinnovation.one/files/assets/948af86b-dd34-4f89-9546-c539b3fe17ec.svg">
+  <source alt="Logo DIO Vermelho" width="14%" media="(prefers-color-scheme: light)" srcset="![logo](https://user-images.githubusercontent.com/61281445/186694586-0f0943f1-9d76-4a7e-8e02-94369f7bda65.svg)
+">
   <img width="50%" alt="Logo DIO" src="https://hermes.digitalinnovation.one/assets/diome/logo.svg">
 </picture>
 <h1>
