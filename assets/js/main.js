@@ -19,15 +19,14 @@ btnSubscribe.addEventListener('click', async () => {
         character: txtCharacter.value
     }
 
-    const subscriptionId = subscribeToHellfireClub(subscription)
+    const subscriptionId = await subscribeToHellfireClub(subscription)
 
     txtName.value = ''
     txtEmail.value = ''
     txtLevel.value = ''
     txtCharacter.value = ''
 
-    alert(`Inscrito com sucesso: Obrigado por se inscrever ${txtName} !
-    Prepare-se para a sua jornada como ${txtCharacter}`)
+    alert(`Inscrito com sucesso: ${subscriptionId}`)
 })
 
 async function loadData() {
