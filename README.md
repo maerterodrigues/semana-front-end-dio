@@ -16,7 +16,7 @@
 <img align="center" alt="Logo Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 <img align="center" alt="Logo HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img align="center" alt="Logo CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img align="center" alt="Logo Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+<img align="center" alt="Logo Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <br>
 </h1>
 </p>
@@ -27,7 +27,7 @@
 
 <p align="center">
   <h2><br><br><p align="left">DIA 01</h2>
-  <img width="63%" align="left" alt="Imagem com Renan Oliveira, Diogo Mainardes e Michele Ambrosio" width="50%" src="https://user-images.githubusercontent.com/61281445/186569381-c581f115-1b80-42c7-9743-e56cc94abbeb.png">
+  <img width="63%" align="left" alt="Imagem com Renan Oliveira, Diogo Mainardes e Michele Ambrosio" src="https://user-images.githubusercontent.com/61281445/186569381-c581f115-1b80-42c7-9743-e56cc94abbeb.png">
   </h2>
   <p align="justify"> Ministrado por <a href="https://www.linkedin.com/in/diogomainardes/"><b>Diogo Mainardes, Dev Sênior e Tech Lead</b></a>; 
   <a href="https://www.linkedin.com/in/michelequeirozambrosio/"><b>Michele Ambrosio, Desenvolvedora Front-End</b></a>; e apresentado por <a href="https://www.linkedin.com/in/renanoliveira-dio/"><b>Renan Oliveira, Head of Education & Certification da DIO</b></a>. Este primeiro dia foi o pontapé inicial para a estruturação do projeto, tendo base no HTML, fazendo todo o processo de criação, organização e preparo da página completa no index.html com os ensinamentos do Dev Diogo, que atentou-se também a acessebilidade do site. E, para a finalização e toques finais ao visual e a apresentação como um todo, a Dev Michele, nos guia através por todo processo de criação do CSS, certificando que a funcionilidade do site se mantenha íntegra.
@@ -38,7 +38,7 @@
 
 <h1 align="center">
   <h2><p align="left">DIA 02</h2>
-  <img width="63%" align="right" alt="Imagem com Caio Longo e Renan Johannsen de Paula" width="50%" src="https://user-images.githubusercontent.com/61281445/186775224-dee7fa29-c987-4754-adc5-88f675b3ce57.png">
+  <img width="63%" align="right" alt="Imagem com Caio Longo e Renan Johannsen de Paula" src="https://user-images.githubusercontent.com/61281445/186775224-dee7fa29-c987-4754-adc5-88f675b3ce57.png">
   </h2>
   <p align="justify">Para mais esse dia, o conteúdo foi totalmente voltado a criação do Javascript da página, com foco no armazenamento dos dados através da plataforma <a href="https://firebase.google.com/"> Firebase </a> que forem preenchidos no formulário da página. A plataforma Firebase possui uma poderosa central para armazenamento de banco de dados, disponíveis usando a Firestore Database dentro dessa plataforma, permitindo todo o controle de todas as respostas obtidas e seu armazenamento de forma extremamente eficaz. Assim, para nos guiar neste dia, contamos mais uma vez com a presença do <a href="https://www.linkedin.com/in/renanoliveira-dio/"><b>Head of Education da DIO, Renan Oliveira</b></a>, também com o apoio do <a href="https://www.linkedin.com/in/caiolongo/"><b>Caio Londo, Tech Lead na DIO</b></a>. E para toda aula e ensinamentos ao longo do desafio de hoje, o Dev <a href="https://www.linkedin.com/in/renanjpaula/"><b>Renan Johannsen de Paula, Arquiteto de Software</b></a>, traz todos os passos necessários para o setup da página junto ao armazenamento feito na Firestore Database, através do Javascript. Realizando todo o desenvolvimento e procedimentos para deixar o código em sincrônia com todo projeto, se atentando a segurança do banco de dados armazenados e aperfeiçoamentos ao feedback do usuário em relação a sua interação com o formulário preenchido. 
   </p>
@@ -48,7 +48,7 @@
 
 <h1 align="center">
   <h2><p align="left">DIA 03</p></h2>
-  <img width="63%" align="left" alt="Imagem com Felipe Silva Aguiar e Pablo Henrique" width="50%" src="https://user-images.githubusercontent.com/61281445/187006020-86428a87-80b6-46ca-8535-71e3e3e2a262.png">
+  <img width="63%" align="left" alt="Imagem com Felipe Silva Aguiar e Pablo Henrique" src="https://user-images.githubusercontent.com/61281445/187006020-86428a87-80b6-46ca-8535-71e3e3e2a262.png">
   </h2>
 
   <p align="justify">3º e último dia da Semana Front-End foi um bate-papo sobre a framework <a href="https://angular.io/"><b>Angular</b></a> e a library <a href="https://reactjs.org/"><b>React</b></a>, respectivamente representados pelo <a href="https://www.linkedin.com/in/felipe-aguiar-exe/"><b>Dev Felipe Silva Aguiar, Desenvolvedor Full-Stack</b></a> e o <a href="https://www.linkedin.com/in/pablohdev/"><b>Dev Pablo Henrique</a></b>, também Desenvolvedor Full-Stack. <br>React vs. Angular. Quem é o melhor? Suas vantagens, desvantagens, aplicações, o que são libraries e frameworks, SPA's (Single Page Application) e como funcionam. Esse basicamente foi o papo desde último dia! E você? Qual o seu time? <b>#timeAngular</b> ou <b>#timeReact</b>? Eu tenho que dizer que sou <b>#timeReact</b> devido a minha familiaridade com HTML, CSS e Javascript, assim tendo uma curva de aprendizado muito menor para mim, sendo este também um dos assuntos abordados durante o bate-papo de hoje.
