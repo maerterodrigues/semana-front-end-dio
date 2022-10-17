@@ -51,7 +51,7 @@
   <img width="63%" align="left" alt="Imagem com Felipe Silva Aguiar e Pablo Henrique" width="50%" src="https://user-images.githubusercontent.com/61281445/187006020-86428a87-80b6-46ca-8535-71e3e3e2a262.png">
   </h2>
 
-  <p align="justify">3º e último dia da Semana Front-End foi um bate-papo sobre a framework <a href="https://angular.io/"><b>Angular</b></a> e a library <a href="https://reactjs.org/"><b>React</b></a>, respectivamente representados pelo <a href="https://www.linkedin.com/in/felipe-aguiar-exe/"><b>Dev Felipe Silva Aguiar, Desenvolvedor Full-Stack</b></a> e o <a href="https://www.linkedin.com/in/pablohdev/"><b>Dev Pablo Henrique</a></b>, também Desenvolvedor Full-Stack. <br>React vs. Angular. Quem é o melhor? Suas vantagens, desvantagens, aplicações, o que são libraries e frameworks, SPA's (Single Page Application) e como funcionam. Esse basicamente foi o papo desde último dia! E você? Qual o seu time?<b>#timeAngular</b> ou <b>#timeReact</b>, eu tenho que dizer que sou <b>#timeReact</b> devido a minha familiaridade com HTML, CSS e Javascript, assim tendo uma curva de aprendizado muito menor para mim, sendo este também um dos assuntos abordados durante o bate-papo de hoje.
+  <p align="justify">3º e último dia da Semana Front-End foi um bate-papo sobre a framework <a href="https://angular.io/"><b>Angular</b></a> e a library <a href="https://reactjs.org/"><b>React</b></a>, respectivamente representados pelo <a href="https://www.linkedin.com/in/felipe-aguiar-exe/"><b>Dev Felipe Silva Aguiar, Desenvolvedor Full-Stack</b></a> e o <a href="https://www.linkedin.com/in/pablohdev/"><b>Dev Pablo Henrique</a></b>, também Desenvolvedor Full-Stack. <br>React vs. Angular. Quem é o melhor? Suas vantagens, desvantagens, aplicações, o que são libraries e frameworks, SPA's (Single Page Application) e como funcionam. Esse basicamente foi o papo desde último dia! E você? Qual o seu time? <b>#timeAngular</b> ou <b>#timeReact</b>? Eu tenho que dizer que sou <b>#timeReact</b> devido a minha familiaridade com HTML, CSS e Javascript, assim tendo uma curva de aprendizado muito menor para mim, sendo este também um dos assuntos abordados durante o bate-papo de hoje.
   </p>
 </h1>
 
@@ -62,6 +62,11 @@
   </p>
 </p>
 
+<!-- REFERÊNCIAS -->
+<br><h1><p align="center">Links</h1></p>
+- [Semana Front-end | Dia 01: Construindo uma Landing Page no Mundo Invertido com HTML e CSS](https://youtu.be/FZgIQUDn8zo)
+- [Semana Front-end | Dia 02: Integrando com o Firebase Para Inscrição no Clube de D&D com JavaScript](https://youtu.be/WHbhgxJLbN4)
+- [Semana Front-end | Dia 03: React vs. Angular: Existe Realmente uma Batalha?](https://youtu.be/x6oegBgBcG8)
 
 
 
