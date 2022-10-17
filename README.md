@@ -56,6 +56,7 @@
 </h1>
 
 <!-- SEÇÃO AGRADECIMENTOS -->
+
 <p align="center">
   <br><h1><p align="center">Agradecimentos </h1></p>
   <p align="justify"> Obrigado a todos os devs envolvidos neste evento da Semana Front-End no Mundo Invertido de Stranger Things. Todos os ensinamentos foram incríveis e pude me aperfeiçoar mais e aprender muitas coisas novas na área de programação Front-End, estes 3 dias foram essencias para entender muito mais como e o que é possível com programação em HTML, CSS, Javascript e, até mesmo, Angular e React, onde pude descobrir ainda mais sobre o Angular, ferramenta que não tinha conhecimento sobre, e React, ferramenta que já tinha noção prévia e serviu para entender ainda a sua aplicação, além de toda a aplicação do Angular também.<br> Obrigado<a href="https://www.dio.me/en"> DIO</a> por essa semana! Obrigado a todos os devs pelos ensinamentos com todo o conteúdo criado, servindo de estudo para todos e todas interessados nesta área de Front-End! 
@@ -63,6 +64,7 @@
 </p>
 
 <!-- REFERÊNCIAS -->
+
 <br><h1><p align="center">Links</h1></p>
 - [Semana Front-end | Dia 01: Construindo uma Landing Page no Mundo Invertido com HTML e CSS](https://youtu.be/FZgIQUDn8zo)
 - [Semana Front-end | Dia 02: Integrando com o Firebase Para Inscrição no Clube de D&D com JavaScript](https://youtu.be/WHbhgxJLbN4)
